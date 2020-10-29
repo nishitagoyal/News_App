@@ -31,7 +31,7 @@ public class MyPageAdapter extends FragmentStatePagerAdapter {
             return "All";
         else if(position == 1)
             return "TechCrunch";
-        else if(position ==2)
+        else if (position == 2)
             return "Wall Street";
         else
             return "Bitcoin";
